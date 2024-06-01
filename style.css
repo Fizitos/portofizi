@@ -58,14 +58,16 @@ li.nav-link{
     font-weight: 300;
     
 }
-.image-wrapper img{
+image-wrapper img{
+    max-width: 200px;
+    max-height: 600;
     margin-left: -60px;
     margin-top: -30px;
     filter: drop-shadow(5px 5px 10px #555);
 }
 
 .block {
-    margin-left: 200px;
+    margin-left: 250px;
     margin-top:  -210px;
 }
 @keyframes animate{ 
@@ -142,6 +144,6 @@ li.nav-link{
     .image-wrapper img{
         max-width: 200px;
         max-height: 600px;
-        margin-left: 50px;
+        margin-left: 90px;
     }
 }
