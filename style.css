@@ -70,6 +70,7 @@ li.nav-link{
 .image-wrapper img{
     margin-left: -60px;
     margin-top: -30px;
+    filter: drop-shadow(5px 5px 10px #555);
 }
 
 .block {
