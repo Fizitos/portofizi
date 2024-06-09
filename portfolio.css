@@ -83,6 +83,7 @@ image-wrapper img{
     margin-top: 20px;
 }
 .homecl h2{
+    font-size: 80%;
     flex-wrap: nowrap;
     color: navajowhite;
     text-shadow: 4px -1px #4874c5;
