@@ -79,14 +79,14 @@ image-wrapper img{
     flex-wrap: nowrap;
     color: navajowhite;
     text-shadow: 4px -1px #4874c5;
-    margin-left: 30px;
+    margin-left: 10px;
     margin-top: 20px;
 }
 .homecl h2{
     flex-wrap: nowrap;
     color: navajowhite;
     text-shadow: 4px -1px #4874c5;
-    margin-left: 40px;
+    margin-left: 20px;
     margin-top: 20px;
 }
 
