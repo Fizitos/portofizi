@@ -74,6 +74,17 @@ image-wrapper img{
     margin-left: 10px;
     margin-top: 10px;
 }
+.blocka h2{
+    text-shadow: 4px -1px #D6549E;
+    margin-left: 30px;
+    margin-top: 20px;
+}
+.homecl h2{
+    text-shadow: 4px -1px #D6549E;
+    margin-left: 30px;
+    margin-top: 20px;
+}
+
 
 @keyframes animate{ 
     0%{ 
