@@ -79,7 +79,7 @@ image-wrapper img{
 }
 
 .blocka p{
-    margin: 10px;
+    margin: 400px;
     margin-top: 0%;
     margin-left: 10px;
     float: center;
@@ -101,6 +101,14 @@ image-wrapper img{
     text-shadow: 4px -1px #4874c5;
     margin-left: 20px;
     margin-top: 20px;
+}
+.sosialmedia img {
+    margin-top: 10px;
+    padding-top: 168px;
+    margin-left: 10px;
+    max-width: 30px;
+    max-height: 30px;
+    filter: drop-shadow(5px 5px 10px #555);
 }
 
 
@@ -155,6 +163,14 @@ image-wrapper img{
 }
 }
 @media screen and (max-width: 720px) {
+    .blocka p{
+        margin: 10px;
+        margin-top: 0%;
+        margin-left: 10px;
+        float: center;
+        display: flex;
+        list-style: none;
+    } 
     .block {
         margin-top: 20px;
         margin-left: 0;
